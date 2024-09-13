@@ -1,0 +1,17 @@
+.questions-list {
+  width: 80%;
+  padding: 2rem;
+  margin: 6rem auto;
+  border-radius: 1rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  background: rgb(77, 0, 50);
+  background: linear-gradient(
+    101deg,
+    rgba(77, 0, 50, 1) 8%,
+    rgba(39, 0, 80, 1) 91%
+  );
+}

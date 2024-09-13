@@ -1,0 +1,26 @@
+@import './home';
+@import './header';
+@import './questions';
+@import './card';
+@import './questions-list';
+@import './[id]';
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background: #03081b;
+
+  padding: 0.5rem;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
